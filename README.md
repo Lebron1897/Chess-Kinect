@@ -3,9 +3,9 @@ In this project I tried to make a functional game of chess using a sensor Kinect
 
 Mainly it has been achieved the operation of the time recognition to carry out most of the actions that interested us.
 
-Functionalities implemented:
+# Functionalities implemented:
 - 
 
-Bugs in the program:
+# Bugs in the program:
 - It has not been possible to implement motion recognition in order to be able to control the parts directly with a movement of the hand.
 - It has also not been possible to implement the dashboard in such a way that it can work on the various changes in which the dashboard camera can be seen.
