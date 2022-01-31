@@ -68,7 +68,7 @@ Comando        		 | Argumentos         | Función
 **git reset**  		 | &lt;file> 		  | Deshacer la operacion de preparar.
 **git reset**  		 | [--soft]           | Deshace el add. *(soft: deshace el commit)*
 **git status** 		 |					  | Identificar el estado de un fichero o ficheros en un repositorio local.
-**git checkout**	 | file>   			  | Descartar los cambios de un fichero de trabajo mediante la recuperación de una versión almacenada en el repositorio local. 
+**git checkout**	 | <file>   			  | Descartar los cambios de un fichero de trabajo mediante la recuperación de una versión almacenada en el repositorio local. 
 **git checkout**     | &lt;branch_name>   | Cambia de rama en el repositorio local.
 **git diff**   		 | &lt;file>          | Muestra los cambios de un archivo "modificado" con respecto al que hay en el repositorio.
 
