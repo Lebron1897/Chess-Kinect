@@ -6,7 +6,6 @@ Mainly it has been achieved the operation of the time recognition to carry out m
 # Functionalities implemented:
 - Recognition of voice commands needed to perform all functions of the game.
 - Generation of the board at different game angles along with all the tiles and their corresponding pictures of each.
-- 
 
 # Bugs in the program:
 - It has not been possible to implement motion recognition in order to be able to control the parts directly with a movement of the hand.
